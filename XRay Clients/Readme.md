@@ -26,6 +26,7 @@
 - kROragexeRE1013aN[9 slots][Xray] - N = Use NEW Login Background. [PACKETVER 9][ อ่าน NOTE3 ]
 - kROragexeRE1013aN[12 slots][Xray] - N = Use NEW Login Background. [PACKETVER 9][ อ่าน NOTE3 ]
 
+
 - NOTE: เป็นไคลเอ็นต์ที่ผ่านการ Hex มาไว้แล้ว
 - NOTE2: สำหรับไคลเอ็นต์ปี 2008-09-10aSakexe และปีที่สูงกว่านั้น ซัพพอทกับ eA Trunk 13293+ และ Stable 14287+
 - NOTE3: เบื้องต้นสำหรับใช้งาน Ragnarok RE:
